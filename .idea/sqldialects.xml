@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/application/Redis数据结构.sql" dialect="Redis" />
+    <file url="file://$PROJECT_DIR$/application/排行榜功能.sql" dialect="Redis" />
+    <file url="file://$PROJECT_DIR$/application/计数器.sql" dialect="Redis" />
+  </component>
+</project>
